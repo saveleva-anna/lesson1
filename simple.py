@@ -1,0 +1,10 @@
+float='1'
+print(type(float))
+int=2.5
+print(type(int))
+bool=1
+print(type(bool))
+bool=""
+print(type(bool))
+bool=0
+print(type(bool))
